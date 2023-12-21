@@ -40,4 +40,7 @@ This repository contains a program written in pure C to move and control a robot
    ```bash
    ./main
 
-![alt text](https://github.com/doxenter/robot-arm-real-time-systems/blob/main/arm.png?raw=true)
+<p align="center">
+  <img src="https://github.com/doxenter/robot-arm-real-time-systems/blob/main/arm.png?raw=true" alt="Robot Arm" width="500" height="500">
+</p>
+
